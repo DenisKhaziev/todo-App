@@ -1,0 +1,19 @@
+.todoFormContainer {
+    margin-bottom: 40px;
+}
+
+.todoFormContainer input {
+    width: 55%;
+    height: 50px;
+    font-size: 1.5rem;
+    border-radius: 7px;
+    padding: 0 15px;
+}
+
+.todoFormContainer button {
+    background-color: rgb(39, 150, 39);
+}
+
+.todoFormContainer button:hover {
+    background-color: rgb(56, 200, 152);
+}
